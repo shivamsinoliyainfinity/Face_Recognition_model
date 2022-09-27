@@ -1,0 +1,222 @@
+{
+    "search_metadata": {
+        "id": "631f11262fe3022ca7ff7ea8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b5a6e9c1bd6bb670/631f11262fe3022ca7ff7ea8.json",
+        "created_at": "2022-09-12 10:59:50 UTC",
+        "processed_at": "2022-09-12 10:59:50 UTC",
+        "google_reverse_image_url": "https://www.google.com/searchbyimage?image_url=https://i.imgur.com/gYeJD3G.jpeg",
+        "raw_html_file": "https://serpapi.com/searches/b5a6e9c1bd6bb670/631f11262fe3022ca7ff7ea8.html",
+        "total_time_taken": 3.49
+    },
+    "search_parameters": {
+        "engine": "google_reverse_image",
+        "image_url": "https://i.imgur.com/gYeJD3G.jpeg",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "senior citizen",
+        "total_results": 2,
+        "time_taken_displayed": 1.43
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIIBAA#imgrc=SDUrSd4yZjjadM",
+            "source": "https://timesofindia.indiatimes.com/city/visakhapatnam/andhra-pradesh-padma-shri-award-to-vizag-doctor-sunkara-venkata-adinarayana-rao/articleshow/89123284.cms",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429907c880e1946463e9db4a6ef1b94d8e6578cf30291be596023.jpeg",
+            "original": "https://static.toiimg.com/thumb/msid-89123277,width-400,resizemode-4/89123277.jpg",
+            "title": "Andhra Pradesh: Padma Shri award to Vizag doctor Sunkara ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIHxAA#imgrc=QgC6CUSzWmTn3M",
+            "source": "https://www.enca.com/news/sponsored-meet-judges-nedbank-old-mutual-budget-speech-competition",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429909ec74e3ad528195199853ff9e0f8d92c7a4fbc5222de6b6f.jpeg",
+            "original": "https://www.enca.com/sites/default/files/styles/media_image/public/2020-02/jahed.jpg?h=4dc35482&itok=O1nN1bz7",
+            "title": "SPONSORED: Meet the judges for the Nedbank & Old Mutual ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIHhAA#imgrc=QSPL0gwilrARYM",
+            "source": "https://www.nbcnews.com/id/wbna3078650",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299034eb6faf1244f6bc6ea4f51f280d091a16075e55a3e284ca.jpeg",
+            "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/1974000/1974950.jpg",
+            "title": "In the trenches of the 'spam wars'"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIHRAA#imgrc=hu0FH2De7BcOOM",
+            "source": "https://www.ndtv.com/topic/paralysed-indian-man",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429902cff7779a99be321edb9a4abcfb920d259f6d36da95d8824.jpeg",
+            "original": "https://i.ndtvimg.com/video/images/vod/medium/2015-02/big_356529_1423795681.jpg",
+            "title": "Paralysed Indian Man: Latest News, Photos, Videos on ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIHBAA#imgrc=XgjAHmZhdoOP9M",
+            "source": "https://www.ndtv.com/topic/paralysed-indian-man",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990d6851785726fa218a705559ddf5aa9e84409120d03120e94.jpeg",
+            "original": "https://i.ndtvimg.com/video/images/vod/medium/2015-02/big_356538_1423802397.jpg",
+            "title": "Paralysed Indian Man: Latest News, Photos, Videos on ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIGhAA#imgrc=cCi04L8zmAri8M",
+            "source": "https://www.oneindia.com/india/senior-citizens-dies-karnataka-while-waiting-queue-get-notes-exchanged-2266876.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429904d93defa745fc0f5e68ea789c3ed99cc583563e5de35fa70.jpeg",
+            "original": "https://www.oneindia.com/img/2016/11/seniorcitizen-19-1479554091.jpg",
+            "title": "Senior citizen dies in Karnataka while waiting in queue to ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIGxAA#imgrc=4wP47kKZ-PqgjM",
+            "source": "https://lancasteronline.com/features/family-house-take-tv-anchors-time/article_4e5e3f39-58c2-5cf7-9433-a0ea9a4c7a41.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299062d7f09b1fd854a92d74d1d1a1920438b1f3350c682508db.jpeg",
+            "original": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/4/52/4529f710-476d-59d1-862d-208e08d7f0e8/62b7776c62773.image.jpg",
+            "title": "Family, house take TV anchor's time | Lifestyle ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIGRAA#imgrc=G3g-44A7eNTcdM",
+            "source": "https://www.ahmedabadmirror.com/stirred-not-shaken/81843704.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990140825c3990db58f29d2b8f703bc61c240331aa0716341e7.jpeg",
+            "original": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1661631728715.jpg-sldr",
+            "title": "Stirred, not shaken : THE PERFECT COCKTAIL"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIGBAA#imgrc=ZE5WjwyyWgJlcM",
+            "source": "https://www.facebook.com/150628425668060/photos/a.150628479001388/150628935668009/?type=3",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429906ca28f80d2ccad0ddfc2d136c05cced7cb05d71b6b8b9de6.jpeg",
+            "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063773017842",
+            "title": "Beautiful Old Men In India... - Beautiful Old Men In India"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIFxAA#imgrc=MC-Ur-S8MlFzbM",
+            "source": "https://patch.com/georgia/barrow/barrow-docket-book-for-march-2-4",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429904d8f97f1b31a44d11d86ed97468858e2a4177a30a9391395.jpeg",
+            "original": "https://patch.com/img/cdn/users/98428/2012/03/raw/110a27e08bbf863a56012bc013a472c7.jpg",
+            "title": "Barrow Docket Book for March 2-4 | Barrow, GA Patch"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIFhAA#imgrc=DG-3lUejaziWYM",
+            "source": "https://www.dailymail.co.uk/news/article-3203520/Ex-priest-51-accused-raping-15-year-old-parishioner-says-boy-wanted-sexual-encounter.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299031fc7fbeb6884b815a07efd8eed4372b67d489158011d99a.jpeg",
+            "original": "https://i.dailymail.co.uk/i/pix/2015/08/19/21/2B7FD3B200000578-3203520-_I_didn_t_force_him_to_do_anything_he_didn_t_want_the_Reverend_M-m-10_1440015032970.jpg",
+            "title": "Ex-priest Manuel Gallo Espinoza says boy 'wanted' sexual ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIFRAA#imgrc=Il3ngNDYcktmTM",
+            "source": "https://www.smule.com/song/s-p-b-devuda-devuda-happy-birthday-superstar-karaoke-lyrics/8160784_8160784/arrangement",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990740f5471c2f3ad73346fd566d287d4eb9afcb2b2651ffd3a.jpeg",
+            "original": "https://c-fa.cdn.smule.com/rs-s-sg-1/sing_google/performance/cover/28/e5/22a91e0f-4fad-4ebb-ae45-8f4947d1c0f2.jpg",
+            "title": "Devuda Devuda(Happy birthday Superstar) - Song Lyrics and ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIFBAA#imgrc=MDni8qmR_A2GVM",
+            "source": "https://www.dnaindia.com/india/report-62-year-old-indian-american-journalist-loses-life-to-coronavirus-in-new-york-2820199",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299028408aa4612cffe827c4ef65a7dce43939a8d06a06db9268.jpeg",
+            "original": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/08/901147-uni-journalist-dead.jpg",
+            "title": "62-year-old Indian-American journalist loses life to ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIExAA#imgrc=Gl7F0CGWcpCNiM",
+            "source": "https://www.deccanherald.com/entertainment/entertainment-news/veteran-tamil-actor-srikanth-no-more-1040009.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990b81cea0480260ceb3b6191606c16a590cd0f1682dedc1512.jpeg",
+            "original": "https://pbs.twimg.com/media/FBgHE_AVIAUJJZn?format=jpg&name=360x360",
+            "title": "Veteran Tamil actor Srikanth no more | Deccan Herald"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIERAA#imgrc=tWOlou8oQz291M",
+            "source": "https://twitter.com/pawarspeaks/status/1492861657785061380",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990ea7e41b6e459411286322cd885782bdc99af83a962c0251a.jpeg",
+            "original": "https://pbs.twimg.com/profile_images/1296422596724928513/UV83a9cN_400x400.jpg",
+            "title": "Sharad Pawar on Twitter: \"I am happy that a MoU has been ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIEhAA#imgrc=efUQzD4RG9NN-M",
+            "source": "https://www.deccanchronicle.com/nation/current-affairs/020318/senior-writes-to-president-ram-nath-kovind-to-shift-cantonment.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429902827b8e1e8758cd64ca5c738f64023b7c4091b31ad725b68.jpeg",
+            "original": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7s3ia23intas787tsoj1597j17-20180302012442.jpeg",
+            "title": "Senior writes to President Ram Nath Kovind to shift Cantonment"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIEBAA#imgrc=dOA1o1niFQMMoM",
+            "source": "https://www.wafb.com/story/8044090/troopers-man-legally-drunk-after-crash-that-killed-8-year-old",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990fe012f77b14cbf9d075547e9528bb6afba29a74907bb7634.jpeg",
+            "original": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/CiMb0jgUX6AZKvme4tbWCjsCun0=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/TJFZHYR4DNDX3DUSKRDHX7QGAM.jpg",
+            "title": "Troopers: Man Legally Drunk after Crash that Killed 8-Year-Old"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIDxAA#imgrc=qxglul2pzIcejM",
+            "source": "https://ahmedabadmirror.com/motera-boys-body-found-in-kalol-canal/49360566.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429906caebf76c28ccceeeb9fe6117a84801f90a025409bbe2934.jpeg",
+            "original": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1616775574816.jpg-sldr",
+            "title": "Motera boy's body found in Kalol canal"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIDhAA#imgrc=Bo3xmVHI1A9z0M",
+            "source": "https://www.kbtx.com/2022/08/09/texas-father-convicted-fatally-shooting-his-2-daughters/",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429909feafef3d50fa760ec41203870d98694d413764aa34b3c47.jpeg",
+            "original": "https://gray-kbtx-prod.cdn.arcpublishing.com/resizer/xfGCxE0ZoHejDySJP4LS5_cwYmU=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/KS73NJ5QRVBPVJYOLXCFWIS2LA.jpg",
+            "title": "Texas father convicted of fatally shooting his 2 daughters"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIDRAA#imgrc=FRu6oAbuoKII9M",
+            "source": "https://timesofindia.indiatimes.com/city/ahmedabad/3-senior-citizen-feted/articleshow/58582833.cms",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc429906463a44d7a79582f984b086799083645f312e43702d5aea5.jpeg",
+            "original": "https://static.toiimg.com/thumb/msid-58582833,width-400,resizemode-4/58582833.jpg",
+            "title": "3 senior citizen feted | Ahmedabad News - Times of India"
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIDBAA#imgrc=d4gB3PSKPKe_eM",
+            "source": "https://news.yahoo.com/florida-condo-collapse-families-share-045630468.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990e501ff5dffe586ae03ec30294987365065cbfbb0d6d43de1.jpeg",
+            "original": "https://s.yimg.com/ny/api/res/1.2/BTSLcjkmF0rFl9LcZwm1UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://s.yimg.com/uu/api/res/1.2/skqiR6yoP2IKZSfiBlVNwA--~B/aD0yNTAwO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbc_news_122/b893cf47d40f87f4c6058c5d43482392",
+            "title": "Florida condo collapse: Families share memories of the first ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQIChAA#imgrc=3HGdom-1hpWp8M",
+            "source": "https://www.deccanchronicle.com/nation/politics/020719/mdmk-nominates-general-secretary-vaiko-as-its-candidate-for-rajya-sabh.html",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299024dc13331bf9582bb71d8fd4a8808d8964f13c1ade678d3f.jpeg",
+            "original": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5apu5d622e09mseqr29ki35ji4-20181128064308.jpeg",
+            "title": "MDMK nominates general secretary Vaiko as its candidate for ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQICRAA#imgrc=yx_WWpOxNrq5TM",
+            "source": "https://www.msn.com/en-ca/news/crime/man-charged-after-woman-shopping-in-vaughan-store-sexually-assaulted-police/ar-AA116wkR?li=AAggFp5",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc42990dbba4b795c624bcdee6b001f716f406980963ffa08c015bb.jpeg",
+            "original": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA116wkI.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=141&y=190",
+            "title": "Man charged after woman shopping in Vaughan store sexually ..."
+        },
+        {
+            "link": "https://www.google.com/search?tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQ5r0BegQICBAA#imgrc=dUawZRSbn75PBM",
+            "source": "https://www.stuff.co.nz/dominion-post/news/91434336/missing-66yearold-man-found-in-wellington",
+            "thumbnail": "https://serpapi.com/searches/631f11262fe3022ca7ff7ea8/images/689b47e9ecc4299051b6c1ce9e608af3fe253bea3eb91ddf8fedda9c8dad4836.jpeg",
+            "original": "https://resources.stuff.co.nz/content/dam/images/1/i/f/3/9/o/image.related.StuffLandscapeSixteenByNine.710x400.1ifr6o.png/1491857921214.jpg?format=pjpg&optimize=medium",
+            "title": "Missing 66-year-old man found in Wellington | Stuff.co.nz"
+        }
+    ],
+    "inline_images_link": "https://www.google.com/search?tbs=simg:CAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM&q=senior+citizen&tbm=isch&sa=X&ved=2ahUKEwi_5JTcjI_6AhUgLkQIHSrACAQQjJkEegQICxAC",
+    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=senior+citizen&tbm=isch&tbs=simg%3ACAES-gEJaz62xygDA3ca7gELELCMpwgaOwo5CAQSFJA4qCqxL90B_1An0F8cfoSKECqI0GhsS60snamoMlz0u6WQO3sa2V9ffMFOI48_1JwbIgBTAEDAsQjq7-CBoKCggIARIE8coNJAwLEJ3twQkajQEKIgoOc2VuaW9yIGNpdGl6ZW7apYj2AwwKCi9tLzA0bjdnbWcKFgoDb2xk2qWI9gMLCgkvYS8zdjQxNXcKGAoFaGFwcHnapYj2AwsKCS9hL2JmNmRrZgocCglmb3IgYWR1bHTapYj2AwsKCS9hLzkzY3dfeQoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMM",
+    "image_results": [
+        {
+            "position": 1,
+            "title": "When Do You Become a Senior Citizen? | Aging | U.S. News",
+            "link": "https://money.usnews.com/money/retirement/aging/articles/when-do-you-become-a-senior-citizen",
+            "displayed_link": "https://money.usnews.com \u203a ... \u203a Retirement \u203a Aging",
+            "date": "Aug 10, 2022",
+            "snippet": "There is no clearly defined age when you become a senior citizen. Some people might consider themselves seniors when they retire from the ...",
+            "snippet_highlighted_words": [
+                "senior citizen"
+            ],
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EWY9Y0FNZtYJ:https://money.usnews.com/money/retirement/aging/articles/when-do-you-become-a-senior-citizen&cd=1&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "FAQ's for Senior Citizens | What It Means to be a Senior Citizen",
+            "link": "https://www.seniorliving.org/life/senior-citizen/",
+            "displayed_link": "https://www.seniorliving.org \u203a Life",
+            "date": "Aug 22, 2022",
+            "snippet": "Senior citizens are also known as elderly persons or simply as seniors. Categorically, a senior citizen is a social demographic based on age.",
+            "snippet_highlighted_words": [
+                "senior citizen"
+            ],
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oTDcQDQ5OtsJ:https://www.seniorliving.org/life/senior-citizen/&cd=2&hl=en&ct=clnk&gl=us"
+        }
+    ]
+}
